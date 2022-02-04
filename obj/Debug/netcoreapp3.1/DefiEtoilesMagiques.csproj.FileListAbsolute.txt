@@ -1,0 +1,13 @@
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.exe
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.deps.json
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.runtimeconfig.json
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.runtimeconfig.dev.json
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.dll
+C:\Users\akine\source\repos\DefiEtoilesMagiques\bin\Debug\netcoreapp3.1\DefiEtoilesMagiques.pdb
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.csproj.AssemblyReference.cache
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.AssemblyInfoInputs.cache
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.AssemblyInfo.cs
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.csproj.CoreCompileInputs.cache
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.dll
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.pdb
+C:\Users\akine\source\repos\DefiEtoilesMagiques\obj\Debug\netcoreapp3.1\DefiEtoilesMagiques.genruntimeconfig.cache
